@@ -9,21 +9,21 @@
 
 
 - ## Agenda:
+  - <b>Problem Statement</b>
+  - <b>Data Descriptiont</b>
+  - <b>Objective Key Metrics and Visualizations</b>
+  - <b>Insights and Recommendations</b>
   
-  > Problem Statement
-  > Data Description
-  > Objective Key Metrics and Visualizations
-  > Insights and Recommendations
+  
   
 
 - ## Problem Statement:
   The objective is to analyze the IT support ticket management system to understand the performance of IT agents, the efficiency of ticket resolution, and the satisfaction levels of employees. The analysis aims to identify high and low performers among IT agents, assess the overall effectiveness of the team, and pinpoint areas for improvement in the ticket resolution process. The ultimate goal is to make informed staffing decisions, including hiring, firing, and training, to enhance overall service quality and team performance.
 
 - ## Goal:
-  
-  > Informed staffing decisions.
-  > Improved training.
-  > Software efficiency.
+  - <b>Informed staffing decisions.</b>
+  - <b>Improved training.</b>
+  - <b>Software efficiency.</b>
   
 
 - ## Data Overview:
