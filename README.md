@@ -72,7 +72,17 @@
  
  
 - ## Recommendations:
-  - To improve service efficiency, focus on optimizing resolution times for complex cases and scaling resources for System-related issues. 
-  - Enhancing mid-level severity and priority ticket handling will improve response times. 
-  - Tailoring support strategies for different age groups can further boost customer satisfaction. 
-  - Additionally, planning for continued ticket volume growth will ensure sustained service excellence.
+    - <b>Focus on Hardware and Systems:</b>
+      - Hardware and system-related tickets take the longest to resolve and impact satisfaction significantly. Prioritize investment in modernizing these areas.
+    - <b>Leverage Automation:</b>
+      -Introduce AI-driven tools for ticket classification, triage, and resolution suggestions to reduce manual workload and speed up response times.
+    - <b>Employee Training:</b>
+      - Train employees to handle software and system tools more effectively to reduce errors that lead to tickets.
+   - <b>Proactive Monitoring and Maintenance:</b>
+      - Invest in monitoring tools that pre-emptively detect and resolve hardware/system issues before employees report them.
+    - <b>Feedback Mechanism:</b>
+      - Actively collect feedback from employees on new technology implementations to fine-tune investments and ensure alignment with their needs.
+    - <b>Leverage Efficiency for Smaller Age Groups:</b>
+      - The 47–48 and 53–55 age groups exhibit good satisfaction rates and quick resolution times. Analyse what works well for these groups (e.g., types of tickets, communication strategies) and replicate these practices for other demographics.
+    - <b>Resource Allocation Based on Ticket Volume:</b>
+      - Assign more support resources to the 41–44 age group or redistribute workloads to ensure quicker response and resolution times for high-ticket-volume age groups.
